@@ -13,6 +13,7 @@ Ninja Gaiden II Health and Items Trainer +3 by ike9000
 	* TU2       - Working. Compatibility is uncertain.
 	* No TU     - Not Working.
 
+![image](./trainer_preview_03.png)
 
 Website
 -----------
