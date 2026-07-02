@@ -15,6 +15,19 @@ Ninja Gaiden II Health and Items Trainer +3 by ike9000
 
 ![image](./trainer_preview_03.png)
 
+Installation
+------------------
+
+	Unpack the archive.
+	
+	Copy contents of the archive to the folder whre Xenia 
+	load its plugins from. Should be "...\plugins\544307D5".
+	
+	If "plugins.toml" file already exists, 
+	edit it and add the [[plugin]] section that refers to 
+	this plugin.
+
+
 Website
 -----------
 	
