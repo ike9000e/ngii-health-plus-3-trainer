@@ -27,6 +27,8 @@ Installation
 	edit it and add the [[plugin]] section that refers to 
 	this plugin.
 
+	In Xenia, plugins needs to be enabled.
+	Go to Configuration - General, make sure "allow_plugins" is enabled.
 
 Website
 -----------
